@@ -1,0 +1,13 @@
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\bin\Debug\net5.0\CajeroCPE.exe
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\bin\Debug\net5.0\CajeroCPE.deps.json
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\bin\Debug\net5.0\CajeroCPE.runtimeconfig.json
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\bin\Debug\net5.0\CajeroCPE.runtimeconfig.dev.json
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\bin\Debug\net5.0\CajeroCPE.dll
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\bin\Debug\net5.0\CajeroCPE.pdb
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\obj\Debug\net5.0\CajeroCPE.csprojAssemblyReference.cache
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\obj\Debug\net5.0\CajeroCPE.AssemblyInfoInputs.cache
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\obj\Debug\net5.0\CajeroCPE.AssemblyInfo.cs
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\obj\Debug\net5.0\CajeroCPE.csproj.CoreCompileInputs.cache
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\obj\Debug\net5.0\CajeroCPE.dll
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\obj\Debug\net5.0\CajeroCPE.pdb
+C:\jm\Soft\Prototipos\DotNetConsole\CajeroCPE\obj\Debug\net5.0\CajeroCPE.genruntimeconfig.cache

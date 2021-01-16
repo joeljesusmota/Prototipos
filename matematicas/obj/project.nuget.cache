@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UhTxKKuDgNm6Uo93pHNCQHDs5Pr+UrUVljW/Fi+f1DHlxmgHFhSFWQCNnggt+aIB5In0Tiu8agey1vqkONTPQ==",
+  "success": true,
+  "projectFilePath": "C:\\jm\\Soft\\Prototipos\\matematicas\\matematicas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CZ\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\CZ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
