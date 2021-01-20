@@ -1,26 +1,28 @@
-    DATA PAGE STRUCTURE
+DATA PAGE STRUCTURE
 
-**HOME**
+*HOME*
 
 - navbar
   -  btn-create nota informativa
 
-- Consulta por fecha
-- Resetear fecha de consulta
-- btn buscar 
+- Consulta por fecha (.data-input)
+- Resetear fecha de consulta (btn-basic)
+- input buscar (input-basic)
+- btn buscar (btn-basic)
 
-- btn Generar reporte
+- btn Generar reporte (btn-basic)
 
 -Label resultados
 
-- Notas
-  - Accion
-  - Usuario
-  - Fecha evento
-  - Comentario
-  - Img 
+- Notas (note-container)
+   - grid-note-container 
+    - Accion (icon-config)
+    - Usuario (label-nota)
+    - Fecha evento (label-nota)
+  - Comentario (label-commet)
+  - Img (note-img)
 
-** Formulario create nota **
+*Formulario create nota*
 
 - Title
 - Label
