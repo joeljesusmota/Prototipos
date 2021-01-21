@@ -5,7 +5,7 @@ DATA PAGE STRUCTURE
 - navbar
   -  btn-create nota informativa
 
-- Consulta por fecha (.data-input)
+- Consulta por fecha (data-input)
 - Resetear fecha de consulta (btn-basic)
 - input buscar (input-basic)
 - btn buscar (btn-basic)

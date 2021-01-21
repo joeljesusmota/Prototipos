@@ -1,10 +1,86 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 * {
   margin: 0px;
   padding: 0px;
   font-family: "Roboto", sans-serif;
 }
+
+:root {
+  --color-blue: #3333ff;
+  --color-grey: rgba(155, 155, 184, 0.438);
+}
+
+.btn-basic {
+  margin: 10px 0px;
+  background: var(--color-blue);
+  border-radius: 50px;
+  border: none;
+  color: #fff;
+  padding: 20px 50px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 30px;
+  transition: 0.5s all ease;
+}
+
+.btn-basic:hover {
+  background: #5959f6;
+}
+
+.btn-nav {
+  padding: 5px 60px;
+  border-radius: 5px;
+}
+
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #dfdbe5;
+  background-image: url("data:image/svg+xml,%3Csvg width='40' height='1' viewBox='0 0 40 1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h20v1H0z' fill='%23d3d3e0' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+}
+
+header img {
+  width: 130px;
+  height: 150px;
+  padding: 10px;
+}
+
+nav {
+  padding: 5px;
+  background-color: var(--color-grey)
+}
+nav div:nth-child(1) {
+  display: block;
+}
+nav div:nth-child(2), nav div:nth-child(3) {
+  display: inline;
+  margin-left: 20px;
+}
+/* nav input[type="date"]:nth-child(1) {
+  display: block;
+}
+ */
+.btn-reporte{
+  font-family: 'Open Sans', sans-serif;
+  background-color:white;
+  color: var(--color-blue);
+  border: solid var(--color-blue) 3px;
+}
+.btn-reporte:hover{
+  background-color: var(--color-blue);
+  color: white;
+}
+nav input {
+  height: 20px;
+  padding: 5px 20px;
+  border-radius: 5px;
+  border: none;
+}
+
 
 .note-container {
   margin-top: 10px;
@@ -45,14 +121,14 @@
 }
 .flex-note-container:nth-child(4) {
   flex: 1;
-  background-color: rgba(218, 218, 218, 0.445);
+  background-color: var(--color-grey);
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
 }
-.flex-note-container:nth-child(4) img{
-    height: 30px;
-    width: 30px;
-    padding: 10px;
+.flex-note-container:nth-child(4) img {
+  height: 30px;
+  width: 30px;
+  padding: 10px;
 }
 
 .label-note {
